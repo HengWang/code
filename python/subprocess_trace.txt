@@ -1,0 +1,26 @@
+## Copyright (c) 2013, Heng.Wang. All rights reserved.
+## 
+## subprocess trace sample code.
+##   
+## @Author: Heng.Wang
+## @Date  : 08/11/2013
+## @Email : wangheng.wh@alibaba-inc.com
+##          king_wangheng@163.com
+##          wangheng.king@gmail.com          
+## @Github: https://github.com/HengWang/
+## @Blog  : http://hengwang.blog.chinaunix.net
+
+Function:
+  The script will trace the subprocess to be forked by given process.
+  The script based on python_trace library.
+
+Reference:
+  python_ptrace: https://bitbucket.org/haypo/python-ptrace/
+  C implement: https://github.com/RobinDong/misc/blob/master/ptrace/monitor.c
+  Sample1: https://github.com/qikon/python-ptrace/blob/master/examples/simple_dbg.py
+  Sample2: https://github.com/qikon/python-ptrace/blob/master/examples/itrace.py
+  Sample3: https://gist.github.com/yoggy/3011428
+ 
+Usage:
+  Setup the python_trace library first, then run:
+    python subprocess_trace <pid>
