@@ -1,11 +1,11 @@
 #!/usr/bin/python
 #****************************************************************#
 # ScriptName: trace.py
-# Author: $SHTERM_REAL_USER@alibaba-inc.com
+# Author: wangheng.wh@alibaba-inc.com
 # Create Date: 2013-08-09 21:55
-# Modify Author: $SHTERM_REAL_USER@alibaba-inc.com
+# Modify Author: wangheng.wh@alibaba-inc.com
 # Modify Date: 2013-08-09 21:55
-# Function: 
+# Function: Subprocess trace.
 #***************************************************************#
 
 
