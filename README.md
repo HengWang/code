@@ -4,7 +4,7 @@
 ##   
 ## @Author: Heng.Wang
 ## @Date  : 08/05/2013
-## @Email : wangheng.wh@alibaba-inc.com
+## @Email : 
 ##          king_wangheng@163.com
 ##          wangheng.king@gmail.com          
 ## @Github: https://github.com/HengWang/
