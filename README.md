@@ -8,6 +8,5 @@
 ##          king_wangheng@163.com
 ##          wangheng.king@gmail.com          
 ## @Github: https://github.com/HengWang/
-## @Blog  : http://hengwang.blog.chinaunix.net
 
 All of the code is written in my spare time.
